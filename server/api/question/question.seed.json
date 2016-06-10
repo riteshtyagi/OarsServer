@@ -12,13 +12,63 @@
 		}
 	},
 	{
+		"question": "This is question 2",
+		"type" : "MultipleChoice",
+		"imgSource": "No Img",
+		"answer": "A",
+		"options" : {
+			"A": "optionA",
+			"B": "optionB",
+			"C": "optionC",
+			"D": "optionD"
+		}
 	},
 	{
+		"question": "This is question 3",
+		"type" : "SingleChoice",
+		"imgSource": "No Img",
+		"answer": "A",
+		"options" : {
+			"A": "optionA",
+			"B": "optionB",
+			"C": "optionC",
+			"D": "optionD"
+		}
 	},
 	{
+		"question": "This is question 4",
+		"type" : "SingleChoice",
+		"imgSource": "No Img",
+		"answer": "A",
+		"options" : {
+			"A": "optionA",
+			"B": "optionB",
+			"C": "optionC",
+			"D": "optionD"
+		}
 	},
 	{
+		"question": "This is question 5",
+		"type" : "MultipleChoice",
+		"imgSource": "No Img",
+		"answer": {"A":true,"B":false,"C":true,"D":false},
+		"options" : {
+			"A": "optionA",
+			"B": "optionB",
+			"C": "optionC",
+			"D": "optionD"
+		}
 	},
 	{
+		"question": "This is question 6",
+		"type" : "SingleChoice",
+		"imgSource": "No Img",
+		"answer": "A",
+		"options" : {
+			"A": "optionA",
+			"B": "optionB",
+			"C": "optionC",
+			"D": "optionD"
+		}
 	}
 ]
