@@ -6,7 +6,7 @@ var mongoose = require('mongoose'),
 var QuestionSchema = new Schema({
   question: String,
   type : String,
-  imgSource: String,
+  image: String,
   answer: Schema.Types.Mixed,
   options : {}
 });

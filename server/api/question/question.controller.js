@@ -16,6 +16,7 @@ var Question = require('./question.model');
 exports.index = function(req, res) {
   Question.find(function (err, things) {
     if(err) { return handleError(res, err); }
+    console.log(req);
     return res.status(200).json(things);
   });
 };

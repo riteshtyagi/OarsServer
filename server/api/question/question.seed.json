@@ -2,7 +2,7 @@
 	{
 		"question": "This is question 1",
 		"type" : "SingleChoice",
-		"imgSource": "No Img",
+		"image": "No Img",
 		"answer": "A",
 		"options" : {
 			"A": "optionA",
